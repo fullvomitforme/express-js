@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.1.1",
+    "nodemon": "^2.0.22"
+  },
+  "name": "express",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "kiw": "nodemon ./src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fullvomitforme/express-js.git"
+  },
+  "author": "Tazkiya Mujahid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fullvomitforme/express-js/issues"
+  },
+  "homepage": "https://github.com/fullvomitforme/express-js#readme",
+  "description": ""
+}
